@@ -3,7 +3,7 @@
 
 ### National
 [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
-[WHO}(https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+[WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
 
 ### California
 [EDD(Employment Development Department)](https://www.edd.ca.gov/about_edd/coronavirus-2019.htm)
