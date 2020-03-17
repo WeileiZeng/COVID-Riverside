@@ -19,6 +19,8 @@ title: COVID Riverside 河滨疫情动态
 * [Campus COVID update](https://ehs.ucr.edu/coronavirus) 
 * [Campus announcement](https://insideucr.ucr.edu/announcements)
 * Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources)
+* [UCR微信公众号](https://open.weixin.qq.com/qr/code?username=gh_7d6f6ca60162)
+
 
 ## Nonofficial Resources
 * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
