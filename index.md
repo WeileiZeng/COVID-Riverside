@@ -24,7 +24,10 @@ All you need to know at Riverside. Nothing is official here other than the offic
 * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
 * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/riverside-covid.jpeg)
 
-## submit information
+## Find cases near me
+* [cases nearby search](https://www.coronainusa.com/?from=groupmessage&isappinstalled=0)
+
+## Submit information
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
 * chat in wechat
 
