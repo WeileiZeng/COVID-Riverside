@@ -1,7 +1,5 @@
-# COVID-Riverside
-COVID what now at Riverside, CA
 
-## Resource list
+## Official Announcement
 
 ### National
 [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
@@ -18,6 +16,6 @@ COVID what now at Riverside, CA
 
 [Campus COVID update](https://ehs.ucr.edu/coronavirus) [Campus announcement](https://insideucr.ucr.edu/announcements)
 
-https://keepteaching.ucr.edu/ilearn
-
-https://keepteaching.ucr.edu/ta-resources
+Keep teaching
+[iLearn](https://keepteaching.ucr.edu/ilearn),
+[TA resources](https://keepteaching.ucr.edu/ta-resources)
