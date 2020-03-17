@@ -36,8 +36,9 @@ All you need to know at Riverside. Nothing is official here other than the offic
   * UCR campus close, starting Mar 16 Monday, through spring quarter.
 
 ## 去哪里买菜？
+
 | Store | item | date Mar 16|
-|--|-|-|
-| Ranch99 @corona| rice| o |
+|-------|------|------------|
+| Ranch99 @corona| rice| o  |
 | .. | water  | o |
 | .. | toilet paper | o |
