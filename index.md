@@ -31,6 +31,7 @@ All you need at Riverside
 
 ## Timeline
 * March 16
+  * [Petition:](https://petitions.whitehouse.gov/petition/president-trump-owes-all-chinese-apologies-naming-covid19-chinese-virus-his-latest-twitter) Trump should apology for saying "the Chinese Virus" at Twitter.
   * [送川建国上火星](http://chng.it/bkVd2DdjPd)
 
 
