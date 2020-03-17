@@ -17,3 +17,7 @@ COVID what now at Riverside, CA
 ### UC Riverside
 
 [Campus COVID update](https://ehs.ucr.edu/coronavirus) [Campus announcement](https://insideucr.ucr.edu/announcements)
+
+https://keepteaching.ucr.edu/ilearn
+
+https://keepteaching.ucr.edu/ta-resources
