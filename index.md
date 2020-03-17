@@ -1,6 +1,4 @@
----
-title: COVID Riverside
----
+All you need at Riverside
 ## Official Announcement
 
 ### National
