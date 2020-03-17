@@ -34,6 +34,9 @@ All you need to know at Riverside. Nothing is official here other than the offic
   * [Petition:](https://petitions.whitehouse.gov/petition/president-trump-owes-all-chinese-apologies-naming-covid19-chinese-virus-his-latest-twitter) Trump should apology for saying "the Chinese Virus" at Twitter.
   * [送川建国上火星](http://chng.it/bkVd2DdjPd)
   * UCR campus close, starting Mar 16 Monday, through spring quarter.
+  * [Coronavirus in L.A.: Bars close, restaurants go take-out only](http://www.publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2269)
+
+
 * March 12
   * UCR move to online instruction, all in-person final canceled.
   
