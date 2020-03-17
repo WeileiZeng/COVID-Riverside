@@ -33,6 +33,10 @@ All you need to know at Riverside. Nothing is official here other than the offic
 
 
 ## Timeline
+* March 17
+  * [全球首位健康受试者！接种武汉肺炎疫苗测试安全性！](https://www.cnn.com/2020/03/17/health/coronavirus-vaccine-first-dose-participant/index.html)
+  
+  
 * March 16
   * [Petition:](https://petitions.whitehouse.gov/petition/president-trump-owes-all-chinese-apologies-naming-covid19-chinese-virus-his-latest-twitter) Trump should apology for saying "the Chinese Virus" at Twitter.
   * [送川建国上火星](http://chng.it/bkVd2DdjPd)
