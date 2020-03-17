@@ -11,5 +11,6 @@ To submit information or for other contributions
 * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
 * ![UCR抗疫群](ucr-covid)
 
+![](fight.jpeg)
 
 
