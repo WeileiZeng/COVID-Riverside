@@ -21,7 +21,6 @@ Keep teaching
 [TA resources](https://keepteaching.ucr.edu/ta-resources)
 
 ## Resources
-
-![UCR抗疫群](ucr-covid)
-[awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-[Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
+* [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+* [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
+* ![UCR抗疫群](ucr-covid)
