@@ -19,7 +19,6 @@ All you need at Riverside
 * Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources)
 * [UCR微信公众号](https://open.weixin.qq.com/qr/code?username=gh_7d6f6ca60162)
 
-
 ## Nonofficial Resources
 * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
@@ -28,3 +27,10 @@ All you need at Riverside
 ## submit information
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
 * chat in wechat
+
+
+## Timeline
+* March 16
+  * [送川建国上火星](http://chng.it/bkVd2DdjPd)
+
+
