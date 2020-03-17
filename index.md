@@ -33,5 +33,11 @@ All you need to know at Riverside. Nothing is official here other than the offic
 * March 16
   * [Petition:](https://petitions.whitehouse.gov/petition/president-trump-owes-all-chinese-apologies-naming-covid19-chinese-virus-his-latest-twitter) Trump should apology for saying "the Chinese Virus" at Twitter.
   * [送川建国上火星](http://chng.it/bkVd2DdjPd)
+  * UCR campus close, starting Mar 16 Monday, through spring quarter.
 
-
+## 去哪里买菜？
+| Store | item | date Mar 16|
+|--|-|-|
+| Ranch99 @corona| rice| o |
+| .. | water  | o |
+| .. | toilet paper | o |
