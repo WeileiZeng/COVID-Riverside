@@ -1,4 +1,6 @@
-
+---
+title: COVID Riverside 河滨疫情动态
+---
 ## Official Announcement
 
 ### National
@@ -18,11 +20,11 @@
 * [Campus announcement](https://insideucr.ucr.edu/announcements)
 * Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources)
 
-## Resources
+## Nonofficial Resources
 * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
 * ![UCR抗疫群](ucr-covid)
 
 ## submit information
-* open an issue
+* [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
 * chat in wechat
