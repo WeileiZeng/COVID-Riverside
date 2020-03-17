@@ -1,4 +1,4 @@
-All you need at Riverside
+All you need to know at Riverside. Nothing is official here other than the offical part.
 ## Official Announcement
 
 ### National
