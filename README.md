@@ -22,6 +22,6 @@ Keep teaching
 
 ## Resources
 
-![UCR抗疫群]()
+![UCR抗疫群](ucr-covid)
 [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
