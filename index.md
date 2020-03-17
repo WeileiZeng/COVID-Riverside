@@ -38,7 +38,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
   * UCR move to online instruction, all in-person final canceled.
   
 ## 去哪里买菜？
-o: 没有   x：有  欢迎[提供信息](https://docs.google.com/spreadsheets/d/1wyh6OKMvtIPIbasJLN6GKXPmkV-ucc2ec_hGjY_pRAM/edit?usp=sharing)
+o: 没有   x：有  [欢迎提供信息](https://docs.google.com/spreadsheets/d/1wyh6OKMvtIPIbasJLN6GKXPmkV-ucc2ec_hGjY_pRAM/edit?usp=sharing)
 
 | Store | item | Mar 16| Mar 15 | Mar 14 |
 |-------|------|------------|--|--|
