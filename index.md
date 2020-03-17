@@ -36,13 +36,14 @@ All you need to know at Riverside. Nothing is official here other than the offic
   * UCR campus close, starting Mar 16 Monday, through spring quarter.
 
 ## 去哪里买菜？
+o: 没有   x：有
 
-| Store | item | Mar 16|
-|-------|------|------------|
-| Ranch99 @corona| rice| o  |
-|  | water  | o |
-|  | toilet paper | o |
-| Costco @corona| rice| |
-|  | water | |
-|  | toilet paper | |
+| Store | item | Mar 16| Mar 15 | Mar 14 |
+|-------|------|------------|--|--|
+| Ranch99 @corona| rice| o  | | |
+|  | water  | o | | |
+|  | toilet paper | o | | |
+| Costco @corona| rice| | | |
+|  | water | | | |
+|  | toilet paper | | | |
 
