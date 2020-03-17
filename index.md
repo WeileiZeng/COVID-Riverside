@@ -16,7 +16,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
 
 * [Campus COVID update](https://ehs.ucr.edu/coronavirus) 
 * [Campus announcement](https://insideucr.ucr.edu/announcements)
-* Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources)
+* Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources) (Zoom pro license provided)
 * [UCR微信公众号](https://open.weixin.qq.com/qr/code?username=gh_7d6f6ca60162)
 
 ## Nonofficial Resources
