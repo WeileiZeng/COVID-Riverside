@@ -22,7 +22,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
 ## Nonofficial Resources
 * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
-* [UCR抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/ucr-covid.png)
+* [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/riverside-covid.jpeg)
 
 ## submit information
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 

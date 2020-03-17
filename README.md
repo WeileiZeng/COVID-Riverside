@@ -9,7 +9,7 @@ To submit information or for other contributions
 ## Other platform
 * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
-* ![UCR抗疫群](ucr-covid)
+* ![Riverside抗疫群](riverside-covid.jpeg)
 
 ![](fight.jpeg)
 
