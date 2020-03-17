@@ -37,8 +37,12 @@ All you need to know at Riverside. Nothing is official here other than the offic
 
 ## 去哪里买菜？
 
-| Store | item | date Mar 16|
+| Store | item | Mar 16|
 |-------|------|------------|
 | Ranch99 @corona| rice| o  |
-| .. | water  | o |
-| .. | toilet paper | o |
+|  | water  | o |
+|  | toilet paper | o |
+| Costco @corona| rice| |
+|  | water | |
+|  | toilet paper | |
+
