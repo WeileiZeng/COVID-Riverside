@@ -8,7 +8,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
   * [EDD(Employment Development Department)](https://www.edd.ca.gov/about_edd/coronavirus-2019.htm)
 
 * Riverside county
-  * [Riverside County Announcement](https://www.rivcoph.org/coronavirus)
+  * [Riverside County Announcement](https://www.rivcoph.org/coronavirus), [link 2](https://riversideca.gov/press/information-regarding-covid-19-coronavirus)
   * [LA county](http://www.publichealth.lacounty.gov/media/Coronavirus/)
 
 * UC Riverside
