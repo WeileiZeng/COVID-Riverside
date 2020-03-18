@@ -1,5 +1,5 @@
 All you need to know at Riverside. Nothing is official here other than the offical part.
-## Official Announcement
+## Official resources
 
 * National
   * [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
@@ -31,13 +31,13 @@ All you need to know at Riverside. Nothing is official here other than the offic
 * chat in wechat
 
 
-## Timeline
+## Riverside Timeline
 {% for day in site.data.timeline %}
 * {{ day.date }}  {% for event in  day.events %}
   * {{ event.description }}  {% endfor %} {% endfor %}
 
 
-## Cases
+## Riverside Cases
 Live toll:
 
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map)
