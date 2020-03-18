@@ -38,7 +38,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
 
 
 ## Riverside Cases
-Live toll:
+Live toll (as March 17): 16 confirmed, 3 death
 <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map)
 
