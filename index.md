@@ -23,7 +23,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
   * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
   * [cases nearby search](https://www.coronainusa.com/?from=groupmessage&isappinstalled=0)
 * Local
-* [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/riverside-covid.jpeg)
+* [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg)
 
 
 ## Submit information
