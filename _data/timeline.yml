@@ -2,23 +2,31 @@
 - date: March 18
   events:
   - description: '[中国驻美大使回应：留学生现在要不要回国？万一感染要回来治吗？"只要同胞还在，大使馆不会撤退!"](https://mp.weixin.qq.com/s/vD16DMVHgvGdoLqXkZlwxA)'
+    tag: general
   - description: '[UCR Campus Closure Extended to April 30](https://insideucr.ucr.edu/announcements/2020/03/18/campus-closure-extended-april-30)'
+    tag: UCR
 
 
 - date: March 17
   events:
   - description: '[IRS宣布：如果欠税不超过1百万，则今年Federal tax报税延长90天](https://www.cnbc.com/2020/03/17/treasury-and-irs-to-delay-tax-deadline-by-90-days.html)'
-
+    tag: general
 
 - date: March 16
   events:
   - description: '[美国志愿者进行首次冠状病毒疫苗人体试验](https://apnews.com/76b614811eef32955180c8260188bc24)'
+    tag: general
   - description: '[Petition:](https://petitions.whitehouse.gov/petition/president-trump-owes-all-chinese-apologies-naming-covid19-chinese-virus-his-latest-twitter) Trump should apology for saying "the Chinese Virus" at Twitter.'
+    tag: general
   - description: '[送川建国上火星](http://chng.it/bkVd2DdjPd)'
+    tag: general
   - description: UCR campus close, starting Mar 16 Monday, through spring quarter.
+    tag: UCR
   - description: "[Coronavirus in L.A.: Bars close, restaurants go take-out only](http://www.publichealth.lacounty.gov/phcommon/public/media/mediapubhpdetail.cfm?prid=2269)"
+    tag: LA
   
 
 - date: March 12
   events:
   - description: UCR move to online instruction, all in-person final canceled.
+    tag: UCR

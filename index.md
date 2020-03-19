@@ -34,7 +34,7 @@ All you need to know at Riverside. Nothing is official here other than the offic
 ## Riverside Timeline
 {% for day in site.data.timeline %}
 * {{ day.date }}  {% for event in  day.events %}
-  * {{ event.description }}  {% endfor %} {% endfor %}
+  * {{ event.description }} <em style="color:#D0CE3B">{{ event.tag }}</em> {% endfor %} {% endfor %}
 
 
 ## Riverside Cases
