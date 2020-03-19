@@ -29,6 +29,13 @@ This is a global event. Lets stay strong and help each other.
 * Local(Riverside)
  * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg)
 
+## Need help?
+* Medical
+  * [UCR’s Student Health Center](https://studenthealth.ucr.edu/)
+  * [Riverside Community Hospital](https://riversidecommunityhospital.com/)
+* Safety
+  * [UCPD](https://police.ucr.edu/)
+  * [Riverside Police Department](https://www.riversideca.gov/rpd/)
 
 ## Submit information
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
