@@ -1,4 +1,7 @@
 All you need to know at Riverside. Nothing is official here other than the offical part.
+<br>
+This is a global event. Lets stay strong and help each other.
+
 ## Official resources
 
 * National
