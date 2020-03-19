@@ -1,6 +1,10 @@
 # Timeline
 - date: March 18
   events:
+  - description: 美股一月内第四次熔断
+    tags: general
+  - description: 美加边境关闭
+    tag: general
   - description: '[中国驻美大使回应：留学生现在要不要回国？万一感染要回来治吗？"只要同胞还在，大使馆不会撤退!"](https://mp.weixin.qq.com/s/vD16DMVHgvGdoLqXkZlwxA)'
     tag: general
   - description: '[UCR Campus Closure Extended to April 30](https://insideucr.ucr.edu/announcements/2020/03/18/campus-closure-extended-april-30)'
