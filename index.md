@@ -50,7 +50,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map)
 
 
 ## 去哪里买菜？
-记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。
+记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎[留言](https://www.weileizeng.com/news/1992/06/29/contact/)给大家参考。
 * Mar 17
   * 罗兰岗各大超市早上有货，到中午大米鸡蛋首先售空，然后是肉类。
   * 各大超市，包括costco，stater Bro等开始限购措施
