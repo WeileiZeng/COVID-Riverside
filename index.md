@@ -13,6 +13,7 @@ This is a global event. Lets stay strong and help each other.
 * Riverside county
   * [Riverside County Announcement](https://www.rivcoph.org/coronavirus), [link 2](https://riversideca.gov/press/information-regarding-covid-19-coronavirus)
   * [LA county](http://www.publichealth.lacounty.gov/media/Coronavirus/)
+  * [KTLA 5](https://www.youtube.com/user/KTLA/videos) KTLA, channel 5 in Los Angeles, covers breaking news, weather and traffic for L.A., Orange, Riverside, San Bernardino and Ventura counties.
 
 * UC Riverside
   * [Campus COVID update](https://ehs.ucr.edu/coronavirus) 
@@ -25,8 +26,8 @@ This is a global event. Lets stay strong and help each other.
   * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
   * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
   * [cases nearby search](https://www.coronainusa.com/?from=groupmessage&isappinstalled=0)
-* Local
-* [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg)
+* Local(Riverside)
+ * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg)
 
 
 ## Submit information
