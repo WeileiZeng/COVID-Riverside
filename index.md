@@ -58,7 +58,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Safety
   * [UCPD](https://police.ucr.edu/)
   * [Riverside Police Department](https://www.riversideca.gov/rpd/)
-  * 中国大使馆热线 12308
+  * 中国外交部全球领保与服务应急呼叫中心电话：0086-10-12308 或 0086-10-59913991
 
 ## Submit information
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
