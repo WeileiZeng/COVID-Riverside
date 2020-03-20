@@ -27,7 +27,7 @@ This is a global event. Lets stay strong and help each other.
   * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
   * [cases nearby search](https://www.coronainusa.com/?from=groupmessage&isappinstalled=0)
 * Local(Riverside)
- * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg)
+  * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg) [UCR抗疫群，Riverside救助群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/wanshiwu.jpeg)，洛杉矶抗疫群
 
 ## Need help?
 * Medical
