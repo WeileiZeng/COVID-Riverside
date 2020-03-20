@@ -28,7 +28,7 @@ This is a global event. Lets stay strong and help each other.
   * [cases nearby search](https://www.coronainusa.com/?from=groupmessage&isappinstalled=0)
 * Local(Riverside)
   * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg) [UCR抗疫群，Riverside救助群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/wanshiwu.jpeg)，洛杉矶抗疫群
-
+  * [美国抗疫日记]https://mp.weixin.qq.com/s/jrsfKU0s0OAABcPiaa-BLA
 ## Need help?
 * Medical
   * [UCR’s Student Health Center](https://studenthealth.ucr.edu/)
