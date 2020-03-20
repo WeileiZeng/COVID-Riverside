@@ -1,11 +1,11 @@
 # Timeline
 - date: March 19
   events:
-  - description: '[Gov. Gavin Newsom orders all Californians to stay at home](https://www.latimes.com/california/story/2020-03-19/gavin-newsom-california-1-billion-federal-aid-coronavirus) [中文](https://mp.weixin.qq.com/s/yJut8IzOKSTBSfbcjvbdgw)'
+  - description: '[Gov. Gavin Newsom orders all Californians to stay at home](https://www.latimes.com/california/story/2020-03-19/gavin-newsom-california-1-billion-federal-aid-coronavirus) [加州封城](https://mp.weixin.qq.com/s/yJut8IzOKSTBSfbcjvbdgw)'
     tag: CA
-  - description: '[L.A. County orders closure of indoor malls, shopping centers, non-essential retail businesses](https://www.latimes.com/california/story/2020-03-19/as-coronavirus-spreads-california-puts-national-guard-on-alert-asks-u-s-navy-for-help?slkjdfa)'
+  - description: '[L.A. County orders closure of indoor malls, shopping centers, non-essential retail businesses](https://www.latimes.com/california/story/2020-03-19/as-coronavirus-spreads-california-puts-national-guard-on-alert-asks-u-s-navy-for-help?slkjdfa) LA封城'
     tag: LA
-  - description: '[UCPD Crime Alert-Robbery Occurred Near Campus; location: 1242 University Ave., adjacent to the UC Riverside Extension Center; time: March 18, 2020, at 8 p.m.](https://police.ucr.edu/)'
+  - description: '[UCPD Crime Alert-Robbery Occurred Near Campus; location: 1242 University Ave., adjacent to the UC Riverside Extension Center; time: March 18, 2020, at 8 p.m.](https://police.ucr.edu/) UV出现一起手机抢劫案'
     tag: UCR
 
 
