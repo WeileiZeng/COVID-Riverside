@@ -1,6 +1,8 @@
 # Timeline
 - date: March 19
   events:
+  - description: '[L.A. County orders closure of indoor malls, shopping centers, non-essential retail businesses](https://www.latimes.com/california/story/2020-03-19/as-coronavirus-spreads-california-puts-national-guard-on-alert-asks-u-s-navy-for-help?slkjdfa)'
+    tag: LA
   - description: '[UCPD Crime Alert-Robbery Occurred Near Campus; location: 1242 University Ave., adjacent to the UC Riverside Extension Center; time: March 18, 2020, at 8 p.m.](https://police.ucr.edu/)'
     tag: UCR
 
