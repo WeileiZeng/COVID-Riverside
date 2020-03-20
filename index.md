@@ -55,6 +55,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Medical
   * [UCR’s Student Health Center](https://studenthealth.ucr.edu/)
   * [Riverside Community Hospital](https://riversidecommunityhospital.com/)
+  * [COVID-19 TESTING AVAILABILITY](https://www.rivcoph.org/Portals/0/Documents/CoronaVirus/TestAvHospDistCOVID-19.pdf)
 * Safety
   * [UCPD](https://police.ucr.edu/)
   * [Riverside Police Department](https://www.riversideca.gov/rpd/)
