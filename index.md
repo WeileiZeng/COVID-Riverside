@@ -74,6 +74,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * 各大超市，包括costco，stater Bro等开始限购措施
 * Mar 16
   * Corona大华没有大米鸡蛋等。
+不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品
 
 
 {% include post-comments.html %}
