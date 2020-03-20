@@ -1,8 +1,29 @@
-All you need to know at Riverside. Nothing is official here other than the offical part.
+Please double check the information before taking anything seriously.
 <br>
 This is a global event. Lets stay strong and help each other.
 
-## Official resources
+
+## Riverside Timeline 时间线
+{% for day in site.data.timeline %}
+* {{ day.date }}  {% for event in  day.events %}
+  * <em style="color:#D0CE3B">{{ event.tag }}.</em> {{ event.description }} {% endfor %} {% endfor %}
+
+
+## Riverside Cases 病例
+California (March 19): 1042 confirmed, 18 death.<br>
+Riverside (March 19): 22 confirmed, 3 death.
+<br>
+Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
+
+
+{% for day in site.data.cases %}
+* {{ day.date }}  {% for case in  day.cases %}
+  * {{ case.description }}  {% endfor %} {% endfor %}
+
+
+
+
+## Official resources 官方平台
 
 * National
   * [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
@@ -21,7 +42,7 @@ This is a global event. Lets stay strong and help each other.
   * Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources) (Zoom pro license provided)
   * [UCR微信公众号](https://open.weixin.qq.com/qr/code?username=gh_7d6f6ca60162)
 
-## Nonofficial Resources
+## Nonofficial Resources 非官方平台
 * General
   * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
   * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
@@ -30,7 +51,7 @@ This is a global event. Lets stay strong and help each other.
   * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg), [UCR抗疫群，Riverside救助群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/wanshiwu.jpeg)，洛杉矶抗疫群
   * [美国抗疫日记](https://mp.weixin.qq.com/s/jrsfKU0s0OAABcPiaa-BLA)
   
-## Need help?
+## Need help? 寻求帮助
 * Medical
   * [UCR’s Student Health Center](https://studenthealth.ucr.edu/)
   * [Riverside Community Hospital](https://riversidecommunityhospital.com/)
@@ -42,23 +63,6 @@ This is a global event. Lets stay strong and help each other.
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
 * chat in wechat
 
-
-## Riverside Timeline
-{% for day in site.data.timeline %}
-* {{ day.date }}  {% for event in  day.events %}
-  * <em style="color:#D0CE3B">{{ event.tag }}.</em> {{ event.description }} {% endfor %} {% endfor %}
-
-
-## Riverside Cases
-California (March 19): 1042 confirmed, 18 death.<br>
-Riverside (March 19): 22 confirmed, 3 death.
-<br>
-Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map) [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
-
-
-{% for day in site.data.cases %}
-* {{ day.date }}  {% for case in  day.cases %}
-  * {{ case.description }}  {% endfor %} {% endfor %}
 
 
 
