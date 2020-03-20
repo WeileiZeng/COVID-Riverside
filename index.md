@@ -50,8 +50,8 @@ This is a global event. Lets stay strong and help each other.
 
 
 ## Riverside Cases
-California (March 19): 1028 confirmed, 18 death.<br>
-Riverside (March 17): 16 confirmed, 3 death.
+California (March 19): 1042 confirmed, 18 death.<br>
+Riverside (March 17): 22 confirmed, 3 death.
 <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map)
 
