@@ -48,7 +48,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * [Open Source COVID-19](https://weileizeng.github.io/Open-Source-COVID-19/)
   * [cases nearby search](https://www.coronainusa.com/?from=groupmessage&isappinstalled=0)
 * Local(Riverside)
-  * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg), [UCR抗疫群，Riverside救助群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/wanshiwu.jpeg)，洛杉矶抗疫群
+  * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg), [UCR抗疫群，Riverside救助群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/wanshiwu.jpeg)，洛杉矶抗疫群, 河滨蔬菜团购群
   * [美国抗疫日记](https://mp.weixin.qq.com/s/jrsfKU0s0OAABcPiaa-BLA)
   
 ## Need help? 寻求帮助
@@ -58,6 +58,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Safety
   * [UCPD](https://police.ucr.edu/)
   * [Riverside Police Department](https://www.riversideca.gov/rpd/)
+  * 中国大使馆热线 12308
 
 ## Submit information
 * [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
