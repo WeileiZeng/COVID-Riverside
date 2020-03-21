@@ -11,8 +11,8 @@ This is a global event. Lets stay strong and help each other.
 
 
 ## Riverside Cases 病例
-California (March 19): 1042 confirmed, 18 death.<br>
-Riverside (March 19): 22 confirmed, 3 death.
+California (March 20): 1243 confirmed, 24 death.<br>
+Riverside (March 20): 28 confirmed(Travel Associated: 4, Locally Acquired: 18), 4 death.
 <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
 
@@ -60,17 +60,18 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Medical
   * [UCR’s Student Health Center](https://studenthealth.ucr.edu/)
   * [Riverside Community Hospital](https://riversidecommunityhospital.com/)
+  * [COVID-19 TESTING AVAILABILITY](https://www.rivcoph.org/Portals/0/Documents/CoronaVirus/TestAvHospDistCOVID-19.pdf)
 * Safety
   * [UCPD](https://police.ucr.edu/)
   * [Riverside Police Department](https://www.riversideca.gov/rpd/)
-  * 中国大使馆热线 12308
+  * 中国外交部全球领保与服务应急呼叫中心电话：0086-10-12308 或 0086-10-59913991
 
 
 
 
 
 ## 去哪里买菜？
-记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎[留言](https://www.weileizeng.com/news/1992/06/29/contact/)给大家参考。
+记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品
 * Mar 20
   * Azusa Costco 下午四点，只缺纸，其他货源充足
 * Mar 17
@@ -78,6 +79,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * 各大超市，包括costco，stater Bro等开始限购措施
 * Mar 16
   * Corona大华没有大米鸡蛋等。
+
 
 
 {% include post-comments.html %}
