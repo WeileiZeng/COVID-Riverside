@@ -6,7 +6,8 @@ This is a global event. Lets stay strong and help each other.
 ## Riverside Timeline 时间线
 {% for day in site.data.timeline %}
 * {{ day.date }}  {% for event in  day.events %}
-  * <em style="color:#D0CE3B">{{ event.tag }}.</em> {{ event.description }} {% endfor %} {% endfor %}
+  * <em style="color:#D0CE3B">{{ event.tag }}.</em> {{ event.description }} {% endfor %}
+{% endfor %}
 
 
 ## Riverside Cases 病例
@@ -41,7 +42,11 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * [Campus announcement](https://insideucr.ucr.edu/announcements)
   * Keep teaching [iLearn](https://keepteaching.ucr.edu/ilearn), [TA resources](https://keepteaching.ucr.edu/ta-resources) (Zoom pro license provided)
   * [UCR微信公众号](https://open.weixin.qq.com/qr/code?username=gh_7d6f6ca60162)
+  * [International student](https://international.ucr.edu/covid-19)
 
+* Others
+  * [Online learning tools](https://asuforyou.asu.edu/)
+  
 ## Nonofficial Resources 非官方平台
 * General
   * [awesome coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
@@ -60,15 +65,14 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * [Riverside Police Department](https://www.riversideca.gov/rpd/)
   * 中国大使馆热线 12308
 
-## Submit information
-* [open an issue](https://github.com/WeileiZeng/COVID-Riverside/issues) 
-* chat in wechat
 
 
 
 
 ## 去哪里买菜？
 记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎[留言](https://www.weileizeng.com/news/1992/06/29/contact/)给大家参考。
+* Mar 20
+  * Azusa Costco 下午四点，只缺纸，其他货源充足
 * Mar 17
   * 罗兰岗各大超市早上有货，到中午大米鸡蛋首先售空，然后是肉类。
   * 各大超市，包括costco，stater Bro等开始限购措施
