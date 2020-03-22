@@ -12,7 +12,7 @@ This is a global event. Lets stay strong and help each other.
 
 ## Riverside Cases 病例
 California (March 20): 1470 confirmed, 27 death.<br>
-Riverside (March 20): 29 confirmed(Travel Associated: 4, Locally Acquired: 24), 4 death.
+Riverside (March 20): 30 confirmed(Travel Associated: 4, Locally Acquired: 24), 4 death.
 <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
 
