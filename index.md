@@ -29,6 +29,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * National
   * [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
   * [WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
+  * [coronavirus.gov/](https://www.coronavirus.gov/)
 * California
   * [EDD(Employment Development Department)](https://www.edd.ca.gov/about_edd/coronavirus-2019.htm)
 
