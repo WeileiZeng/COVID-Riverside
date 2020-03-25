@@ -73,6 +73,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 ## 去哪里买菜？
 记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品
+
 * Mar 24
   * 下午3-5点，Food4less (Chicago and university) 除了鸡蛋什么都有，面包类稍微有点空。corona大华除了鸡蛋什么都有。米也补货了。
 * Mar 20
@@ -83,6 +84,9 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Mar 16
   * Corona大华没有大米鸡蛋等。
 
-
+## 各大超市营业公告
+* 大华99 ranch [自3/19/2020起，周一至周五将保留第一个小时的营业时间给孕妇、60岁以上的老人及残障人士购物](https://www.99ranch.com/)
+* Ralphs Most stores open 7am – 10pm. Select stores open later (Exclusive Shopping for Senior 60 & Older: 7am – 7:30am Daily)](https://www.ralphs.com/i/coronavirus-update/store-information)
+* Whole Foods [We are taking extended measures to ensure the safety and wellness of our communities, including adjusting store hours. Check your local store page for new hours. Customers 60+ are welcome to shop beginning one hour before stores open to the general public.](https://www.wholefoodsmarket.com/company-info/covid-19-response)
 
 {% include post-comments.html %}
