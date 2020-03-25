@@ -86,7 +86,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 ## 各大超市营业公告
 * 大华99 ranch [自3/19/2020起，周一至周五将保留第一个小时的营业时间给孕妇、60岁以上的老人及残障人士购物](https://www.99ranch.com/)
-* Ralphs Most stores open 7am – 10pm. Select stores open later (Exclusive Shopping for Senior 60 & Older: 7am – 7:30am Daily)](https://www.ralphs.com/i/coronavirus-update/store-information)
+* Ralphs [Most stores open 7am – 10pm. Select stores open later (Exclusive Shopping for Senior 60 & Older: 7am – 7:30am Daily)](https://www.ralphs.com/i/coronavirus-update/store-information)
 * Whole Foods [We are taking extended measures to ensure the safety and wellness of our communities, including adjusting store hours. Check your local store page for new hours. Customers 60+ are welcome to shop beginning one hour before stores open to the general public.](https://www.wholefoodsmarket.com/company-info/covid-19-response)
 
 {% include post-comments.html %}
