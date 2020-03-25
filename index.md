@@ -85,10 +85,8 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * Corona大华没有大米鸡蛋等。
 
 ## 各大超市营业公告
-* 大华99 ranch 
-  *[自3/19/2020起，周一至周五将保留第一个小时的营业时间给孕妇、60岁以上的老人及残障人士购物](https://www.99ranch.com/)
-* Ralphs 
-  *[Most stores open 7am – 10pm. Select stores open later (Exclusive Shopping for Senior 60 & Older: 7am – 7:30am Daily)](https://www.ralphs.com/i/coronavirus-update/store-information)
+* 大华99 ranch[自3/19/2020起，周一至周五将保留第一个小时的营业时间给孕妇、60岁以上的老人及残障人士购物](https://www.99ranch.com/)
+* Ralphs[Most stores open 7am – 10pm. Select stores open later (Exclusive Shopping for Senior 60 & Older: 7am – 7:30am Daily)](https://www.ralphs.com/i/coronavirus-update/store-information)
 * Whole Foods [We are taking extended measures to ensure the safety and wellness of our communities, including adjusting store hours. Check your local store page for new hours. Customers 60+ are welcome to shop beginning one hour before stores open to the general public.](https://www.wholefoodsmarket.com/company-info/covid-19-response)
 * Target [Also beginning March 18, we’re reserving the first hour of shopping every Wednesday for our most vulnerable guests, including those over 65 years old, pregnant women or those defined by the Centers for Disease Control and Prevention (CDC) as vulnerable or at-risk.](https://corporate.target.com/about/purpose-history/our-commitments/target-coronavirus-hub?lnk=32520updateThel)
 * Costco [Beginning March 24 on Tuesdays and Thursdays, from 8 a.m. to 9 a.m., Costco will temporarily implement special operating hours for members who are 60 and older. ](https://www.facebook.com/Costco/posts/10158560296074947?__xts__%5B0%5D=68.ARCbKvE1wj5BCcpGc6AYLxLzCdJUVM605tRiHTviDRxu1PTXJYGx8kpGqCKw0b2jBTq3gdseTtbIuOm6CThJeCDWfFcn6ry9ZBZEpsJQU1hkTIMY3xkCKRc-Fv_XgurqjhYYSLV7auxj43jysBESkhBz8eqOWVn-gwJBeIjEygivsOJTvqK4--s3Axt7L-cp8boz-onVMxaCvY-Gk5tJ5p5hpNPfS53Up8D74zkMkjRZDQ6mqqnIf68Fl_lE35iPQ3jI6D2h7X04wAnjP0JerpxSUEcFa-DOkCqgdXx_epml3rcrKZVF_tKlT59XZO2V2i9Ghmk3dxXNxw&__tn__=-R)
