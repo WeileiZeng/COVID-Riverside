@@ -11,8 +11,8 @@ This is a global event. Lets stay strong and help each other.
 
 
 ## Riverside Cases 病例
-California (March 23): 2538 confirmed, 50 death.<br>
-Riverside (March 23): 59 confirmed, 31 pending, 6 death.
+California (March 23): 3003 confirmed, 65 death.<br>
+Riverside (March 23): 70 confirmed, 42 pending, 7 death.
 <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
 
