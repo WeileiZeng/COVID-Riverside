@@ -99,6 +99,9 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 ## Tips for COVID-19 防疫小常识
 
+* [The Coronavirus Explained & What You Should Do](https://www.youtube.com/watch?v=BtN-goy9VOY): 
+
+
 * [How to handwash? With soap and water(From WHO)](https://www.youtube.com/watch?v=3PmVJQUCm4E): 
 
 
