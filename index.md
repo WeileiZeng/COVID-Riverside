@@ -102,8 +102,8 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * -When going to the supermarket:  
   1.Wipe down cart  
   2.Commit to the goods you want to buy.  
-  3. Don’t go out if you have respiratory illness.  
-  4. Plan ahead - get a list and spend minimum time in supermarkets.  
+  3.Don’t go out if you have respiratory illness.  
+  4.Plan ahead - get a list and spend minimum time in supermarkets.  
 
 
 
