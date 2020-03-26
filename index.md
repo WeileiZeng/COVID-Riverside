@@ -98,12 +98,16 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 
 ## Tips for COVID-19 防疫小常识
+
+* [How to handwash? With soap and water(From WHO)](https://www.youtube.com/watch?v=3PmVJQUCm4E): 
+
+
 * [Safe Grocery Shopping(内附Youte视频)](https://www.youtube.com/watch?v=sjDuwc9KBps): 
   * -When going to the supermarket:  
   1. Wipe down cart  
   2. Commit to the goods you want to buy.  
   3. Don’t go out if you have respiratory illness.  
-  4. Plan ahead - get a list and spend minimum time in supermarkets.  
+  4. Plan ahead - get a list and spend minimum time in supermarkets.
   * -Takeouts  
   1. Wash you hands! Always wash your hands.  
   2. Prépare clean dishes.  
