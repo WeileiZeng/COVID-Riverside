@@ -104,7 +104,12 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   2. Commit to the goods you want to buy.  
   3. Don’t go out if you have respiratory illness.  
   4. Plan ahead - get a list and spend minimum time in supermarkets.  
-
+  * -Takeouts  
+  1. Wash you hands! Always wash your hands.  
+  2. Prépare clean dishes.  
+  3. Remove wrapper, dump the food into the clean dishes.  
+  4. Use heat to kill coronavirus, do not use cold temperature. So do microwave! Choose hot food rather than cold food.   
+  
 
 
 {% include post-comments.html %}
