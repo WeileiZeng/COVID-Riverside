@@ -1,4 +1,11 @@
 # Timeline
+- date: March 25
+  events:
+  - description: '[California sees 1 million unemployment claims in less than two weeks](https://www.cnbc.com/2020/03/25/california-sees-one-million-unemployment-claims-in-less-than-two-weeks.html)'
+    tag: CA
+  - description: '[California teen’s suspected coronavirus-related death would be one of youngest in US](https://www.foxnews.com/health/california-teens-suspected-coronavirus-related-death)'
+    tag: CA
+
 - date: March 19
   events:
   - description: '[Gov. Gavin Newsom orders all Californians to stay at home](https://www.latimes.com/california/story/2020-03-19/gavin-newsom-california-1-billion-federal-aid-coronavirus) [加州封城](https://mp.weixin.qq.com/s/yJut8IzOKSTBSfbcjvbdgw)'
