@@ -24,7 +24,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 
 
-## Official resources 官方平台
+## Official Resources 官方平台
 
 * National
   * [CDC](https://www.cdc.gov/coronavirus/2019-nCoV/index.html)
@@ -57,7 +57,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * [Riverside抗疫群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/riverside-covid.jpeg), [UCR抗疫群，Riverside救助群](https://raw.githubusercontent.com/WeileiZeng/COVID-Riverside/master/assets/wanshiwu.jpeg)，洛杉矶抗疫群, 河滨蔬菜团购群
   * [美国抗疫日记](https://mp.weixin.qq.com/s/jrsfKU0s0OAABcPiaa-BLA)
   
-## Need help? 寻求帮助
+## Need Help? 寻求帮助
 * Medical
   * [UCR’s Student Health Center](https://studenthealth.ucr.edu/)
   * [Riverside Community Hospital](https://riversidecommunityhospital.com/)
@@ -71,7 +71,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 
 
-## 去哪里买菜？
+## Where To Buy Grocery? 生鲜资讯
 记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品
 
 * Mar 24
@@ -84,7 +84,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Mar 16
   * Corona大华没有大米鸡蛋等。
 
-## 各大超市营业公告
+## Grocery Announcement 各大超市营业公告
 * 大华99 ranch: [自3/19/2020起，周一至周五将保留第一个小时的营业时间给孕妇、60岁以上的老人及残障人士购物](https://www.99ranch.com/)
 * Ralphs: [Most stores open 7am – 10pm. Select stores open later (Exclusive Shopping for Senior 60 & Older: 7am – 7:30am Daily)](https://www.ralphs.com/i/coronavirus-update/store-information)
 * Whole Foods: [We are taking extended measures to ensure the safety and wellness of our communities, including adjusting store hours. Check your local store page for new hours. Customers 60+ are welcome to shop beginning one hour before stores open to the general public.](https://www.wholefoodsmarket.com/company-info/covid-19-response)
