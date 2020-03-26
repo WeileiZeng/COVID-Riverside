@@ -72,7 +72,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 
 
 ## Where To Buy Grocery? 生鲜资讯
-记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品
+记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品。
 
 * Mar 24
   * 下午3-5点，Food4less (Chicago and university) 除了鸡蛋什么都有，面包类稍微有点空。corona大华除了鸡蛋什么都有。米也补货了。
@@ -95,6 +95,16 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Stater Bros.: [Effective Thursday, March 26, 2020 all 169 Stater Bros. Markets locations will open their doors from 7:00 a.m. – 8:00 a.m. to provide seniors, 65 and over, a safe and less crowded shopping environment.](https://www.staterbros.com/press-releases-catalog/expands-senior-time/)
 * ALDI: [On Tuesdays and Thursdays, ALDI stores will open at 8:30 a.m. and reserve the first hour of business for vulnerable shoppers. This includes senior citizens, expectant mothers and those with underlying health concerns.](https://corporate.aldi.us/en/newsroom/news-press-releases/in-the-news/aldi-covid-19-update/)
 * Food 4 less: [8am – 8pm (Exclusive Shopping for Seniors 60 & Older: 7am – 7:30am, Monday, Wednesday, Friday)](https://www.kroger.com/i/coronavirus-update/store-information)
+
+
+## Tips for COVID-19 防疫小常识
+* [Safe Grocery Shopping(内附Youte视频)](https://www.youtube.com/watch?v=sjDuwc9KBps): 
+  * -When going to the supermarket:
+     1.Wipe down cart
+2.Commit to the goods you want to buy.
+3. Don’t go out if you have respiratory illness.
+4. Plan ahead - get a list and spend minimum time in supermarkets.
+
 
 
 {% include post-comments.html %}
