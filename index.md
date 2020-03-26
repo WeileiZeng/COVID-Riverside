@@ -75,7 +75,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品。
 
 * Mar 26
-  * 早上10点，Corona大华有大米(limited one for per household)，鸡蛋剩一半，充足的蔬菜和水果。
+  * 早上10点，Corona大华有大米(limited one for per household)，鸡蛋剩一半，充足的蔬菜和水果。人流量小，收银区执行6 feet social distance。 
 * Mar 24
   * 下午3-5点，Food4less (Chicago and university) 除了鸡蛋什么都有，面包类稍微有点空。corona大华除了鸡蛋什么都有。米也补货了。
 * Mar 20
