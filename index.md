@@ -14,7 +14,7 @@ This is a global event. Lets stay strong and help each other.
 California (March 25): 3003 confirmed, 65 death.<br>
 Riverside (March 25): 70 confirmed, 42 pending, 7 death.
 <br>
-Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/)
+Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/), [Riverside University Health System](https://www.rivcoph.org/coronavirus)
 
 
 {% for day in site.data.cases %}
