@@ -93,5 +93,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 * Trader Joe's: [Beginning Monday, March 16th and until further notice, all Trader Joe’s stores will be open from 9:00am until 7:00pm. And every day between 9:00am and 10:00am, Crew Members will maintain an additional line outside the front door for our senior customers.](https://www.traderjoes.com/announcement/coronavirus-update-how-trader-joes-is-caring-for-crew-members-and-customers)
 * Stater Bros.: [Effective Thursday, March 26, 2020 all 169 Stater Bros. Markets locations will open their doors from 7:00 a.m. – 8:00 a.m. to provide seniors, 65 and over, a safe and less crowded shopping environment.](https://www.staterbros.com/press-releases-catalog/expands-senior-time/)
 * ALDI: [On Tuesdays and Thursdays, ALDI stores will open at 8:30 a.m. and reserve the first hour of business for vulnerable shoppers. This includes senior citizens, expectant mothers and those with underlying health concerns.](https://corporate.aldi.us/en/newsroom/news-press-releases/in-the-news/aldi-covid-19-update/)
+* Food 4 less: [8am – 8pm (Exclusive Shopping for Seniors 60 & Older: 7am – 7:30am, Monday, Wednesday, Friday)](https://www.kroger.com/i/coronavirus-update/store-information)
+
 
 {% include post-comments.html %}
