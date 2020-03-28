@@ -1,8 +1,3 @@
-- group: gender
-  sort:
-  - description:  Male: 115 cases
-  - description:  Female: 69 cases
-
 
 - date: March 27
   cases:
