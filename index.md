@@ -14,10 +14,6 @@ This is a global event. Lets stay strong and help each other.
 California (March 27): 4203 confirmed, 85 death.<br>
 Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br>
 
-{% for day in site.data.cases %}
-* {{ day.date }}  {% for case in  day.cases %}
-  * {{ case.description }}  {% endfor %} {% endfor %}
-
 <br>
 
 [Find your region cases](https://countyofriverside.maps.arcgis.com/apps/Media/index.html?appid=87d386575b524d72aa7d84c895e63f98&locale=en-us&&center=-116.2185,33.6302&level=7)<br>
