@@ -12,7 +12,13 @@ This is a global event. Lets stay strong and help each other.
 
 ## Riverside Cases 病例
 California (March 27): 4203 confirmed, 85 death.<br><br>
-Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br>
+Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br><br>
+
+| Gender  | Male | Female |
+| :---: | :----: | :----:|
+| Cases | 115 | 69 |
+
+
 [Find your region cases](https://countyofriverside.maps.arcgis.com/apps/Media/index.html?appid=87d386575b524d72aa7d84c895e63f98&locale=en-us&&center=-116.2185,33.6302&level=7)<br>
 
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/), [Riverside University Health System](https://www.rivcoph.org/coronavirus)
