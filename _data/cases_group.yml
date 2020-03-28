@@ -1,1 +1,14 @@
 
+- group: Gender
+  sort:
+  - description: Male: 115 cases
+  - description: Female: 69 cases
+
+
+- group: Age
+  sort:
+  - description: 5-17: 2 cases
+  - description: 18-39: 56 cases
+  - description: 40-64: 77 cases
+  - description: 65-79: 36 cases
+  - description: 80+: 13 cases
