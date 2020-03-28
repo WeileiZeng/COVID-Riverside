@@ -14,7 +14,7 @@ This is a global event. Lets stay strong and help each other.
 California (March 27): 4203 confirmed, 85 death.<br><br>
 Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br>
 |   | Gender |  | Age |
-| :---: | :----: | :----:|
+| :---: | :----: | :----:| :----:| :----:| :----:| :----:| :----:|
 |   | Male | Female | 5-17|18-39|40-64|65-79|80+|
 | Cases | 115 | 69 |
 
