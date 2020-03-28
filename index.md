@@ -14,6 +14,10 @@ This is a global event. Lets stay strong and help each other.
 California (March 27): 4203 confirmed, 85 death.<br>
 Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br>
 
+{% for day in site.data.cases %}
+* {{ day.date }}  {% for case in  day.cases %}
+  * {{ case.description }}  {% endfor %} {% endfor %}
+
 <br>
 
 [Find your region cases](https://countyofriverside.maps.arcgis.com/apps/Media/index.html?appid=87d386575b524d72aa7d84c895e63f98&locale=en-us&&center=-116.2185,33.6302&level=7)<br>
@@ -21,8 +25,8 @@ Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/), [Riverside University Health System](https://www.rivcoph.org/coronavirus)
 
 
-{% for day in site.data.cases %}
-* {{ day.date }}  {% for case in  day.cases %}
+{% for day in site.data.cases_group %}
+* {{ day.group }}  {% for case in  day.sort %}
   * {{ case.description }}  {% endfor %} {% endfor %}
 
 
