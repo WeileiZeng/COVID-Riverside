@@ -21,8 +21,8 @@ Riverside (March 27): 185 confirmed, 123 pending, 8 death. <br>
 Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA times](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/), [Riverside University Health System](https://www.rivcoph.org/coronavirus)
 
 
-{% for day in site.data.cases_group %}
-* {{ day.group }}  {% for case in  day.sort %}
+{% for day in site.data.cases %}
+* {{ day.date }}  {% for case in  day.cases %}
   * {{ case.description }}  {% endfor %} {% endfor %}
 
 
