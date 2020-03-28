@@ -70,6 +70,7 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
   * [UCPD](https://police.ucr.edu/)
   * [Riverside Police Department](https://www.riversideca.gov/rpd/)
   * 中国外交部全球领保与服务应急呼叫中心电话：0086-10-12308 或 0086-10-59913991
+  * 驻洛杉矶总领馆开通24小时涉疫情领保应急专线：+1（213）235-6380
 
 
 
