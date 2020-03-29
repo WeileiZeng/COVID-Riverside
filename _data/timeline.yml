@@ -5,6 +5,8 @@
     tag: LA
   - description: '[US coronavirus cases reach 100,000 as reported deaths hit new daily high](https://q13fox.com/2020/03/27/us-coronavirus-cases-reach-100000-as-reported-deaths-hit-new-daily-high/)'
     tag: General
+  - description: '[Global coronavirus pandemic kills more than 30,000](https://www.cnn.com/world/live-news/coronavirus-outbreak-03-29-20-intl-hnk/index.html)'
+    tag: General
 
 - date: March 27
   events:
