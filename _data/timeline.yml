@@ -9,8 +9,11 @@
     tag: CA
   - description: '[China Gets Back to Work While U.S. Extends Coronavirus Shutdowns](https://www.wsj.com/articles/china-gets-back-to-work-while-u-s-extends-coronavirus-shutdowns-11585561393)'
     tag: General
-  - description: '[Trump rants at Pelosi and other politicians as deaths climb past 2,500](https://www.theguardian.com/us-news/live/2020/mar/30/coronavirus-us-live-updates-donald-trump-deaths-america-new-york-fauci)'
+  - description: '[President Trump Adds 30 Days to Distancing Guidelines as Virus Spreads](https://whotv.com/news/coronavirus/president-trump-adds-30-days-to-distancing-guidelines-as-virus-spreads/?fbclid=IwAR2ZDP1MfHOEf8Q2mdv2FTlnXup_IjylGuwmMJ0MXKlap09kiEOgd1QVow0)'
     tag: General
+  - description: '[Health insurers Cigna, Humana waive out-of-pocket costs for coronavirus treatment](https://thehill.com/policy/healthcare/490100-health-insurers-cigna-humana-waive-out-of-pocket-costs-for-coronavirus)'
+    tag: General
+
 
 - date: March 29
   events:
