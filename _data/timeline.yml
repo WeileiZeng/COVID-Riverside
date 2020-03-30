@@ -1,4 +1,17 @@
 # Timeline
+- date: March 30
+  events:
+  - description: '[Coronavirus: Riverside County Surpasses 200 Cases](https://patch.com/california/temecula/coronavirus-riverside-county-surpasses-200-cases)'
+    tag: Riverside
+  - description: '[L.A. Convention Center to be converted into field hospital as city sets up shelters for homeless](https://ktla.com/news/local-news/l-a-mayor-eric-garcetti-to-provide-an-update-on-the-citys-coronavirus-response/)'
+    tag: LA
+  - description: '[California Prepares for Coronavirus Surge in Week Ahead](https://www.nbclosangeles.com/news/coronavirus/california-prepares-for-coronavirus-surge-in-week-ahead/2337398/)'
+    tag: CA
+  - description: '[China Gets Back to Work While U.S. Extends Coronavirus Shutdowns](https://www.wsj.com/articles/china-gets-back-to-work-while-u-s-extends-coronavirus-shutdowns-11585561393)'
+    tag: General
+  - description: '[Trump rants at Pelosi and other politicians as deaths climb past 2,500](https://www.theguardian.com/us-news/live/2020/mar/30/coronavirus-us-live-updates-donald-trump-deaths-america-new-york-fauci)'
+    tag: General
+
 - date: March 29
   events:
   - description: '[Anthony Fauci says millions of Americans face infection, 200,000 could die](https://www.usatoday.com/story/news/health/2020/03/29/coronavirus-update-donald-trump-cdc-travel-advisory-nypd-deaths/2918869001/)'
