@@ -11,9 +11,9 @@ This is a global event. Lets stay strong and help each other.
 
 
 ## Riverside Cases 病例
-United States (March 29): 144324 confirmed, 2580 death.<br>
-California (March 29): 6356 confirmed, 132 death.<br>
-[Riverside (March 29): 233 confirmed(male: 139, female: 93), 8 death.](https://www.rivcoph.org/coronavirus) <br>
+United States (March 29): 164670 confirmed, 3180 death.<br>
+California (March 29): 7394 confirmed, 149 death.<br>
+[Riverside (March 29): 291 confirmed(male: 139, female: 93), 9 death.](https://www.rivcoph.org/coronavirus) <br>
 
 [Find your region cases](https://countyofriverside.maps.arcgis.com/apps/Media/index.html?appid=87d386575b524d72aa7d84c895e63f98&locale=en-us&&center=-116.2185,33.6302&level=7)<br>
 
