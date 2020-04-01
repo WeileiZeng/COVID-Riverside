@@ -1,6 +1,12 @@
 # Timeline
 - date: March 30
   events:
+  - description: '[Coronavirus: California schools to stay closed through end of academic year, Newsom says](https://abc7.com/health/california-schools-closed-through-end-of-school-year-newsom-says/6069047/)'
+    tag: CA
+
+
+- date: March 30
+  events:
   - description: '[Coronavirus: Riverside County Surpasses 200 Cases](https://patch.com/california/temecula/coronavirus-riverside-county-surpasses-200-cases)'
     tag: Riverside
   - description: '[L.A. Convention Center to be converted into field hospital as city sets up shelters for homeless](https://ktla.com/news/local-news/l-a-mayor-eric-garcetti-to-provide-an-update-on-the-citys-coronavirus-response/)'
