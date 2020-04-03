@@ -1,4 +1,13 @@
 # Timeline
+- date: April 2
+  events:
+  - description: '[Riverside Medical Center has officially opened its testing site at 14th Street between Jefferson and Madison streets](https://www.nj.com/hudson/2020/04/public-coronavirus-testing-site-opens-for-hoboken-residents-mayor-says.html)'
+    tag: Riverside
+- description: '[Backlog in California: 64% of coronavirus tests unprocessed](https://www.kcra.com/article/testing-issues-cloud-scope-of-californias-virus-outbreak/32024743#)'
+    tag: CA
+  - description: '[Coronavirus live updates: US death toll tops 6,000; 701K jobs lost in March; NY sending National Guard to seize ventilators](https://www.usatoday.com/story/news/health/2020/04/03/coronavirus-live-updates-face-masks-unemployment-furloughs-fauci/5117650002/)'
+    tag: General
+
 - date: April 1
   events:
   - description: '[Coronavirus: California schools to stay closed through end of academic year, Newsom says](https://abc7.com/health/california-schools-closed-through-end-of-school-year-newsom-says/6069047/)'
