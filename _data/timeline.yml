@@ -1,6 +1,15 @@
 # Timeline
 - date: April 2
   events:
+  - description: '[Coronavirus Cases Rise 'Exponentially' In Riverside County](https://patch.com/california/temecula/coronavirus-cases-rise-exponentially-riverside-county)'
+    tag: Riverside
+  - description: '[CDC recommends wearing cloth masks in public](https://www.nbcnews.com/health/health-news/live-blog/coronavirus-live-updates-u-s-deaths-rise-more-1-000-n1176616)'
+    tag: General
+
+    
+
+- date: April 2
+  events:
   - description: '[Riverside Medical Center has officially opened its testing site at 14th Street between Jefferson and Madison streets](https://www.nj.com/hudson/2020/04/public-coronavirus-testing-site-opens-for-hoboken-residents-mayor-says.html)'
     tag: Riverside
   - description: '[Backlog in California: 64% of coronavirus tests unprocessed](https://www.kcra.com/article/testing-issues-cloud-scope-of-californias-virus-outbreak/32024743#)'
