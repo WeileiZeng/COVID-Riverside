@@ -11,9 +11,9 @@ This is a global event. Lets stay strong and help each other.
 
 
 ## Riverside Cases 病例
-United States (April 3): 261,701 confirmed, 6,714 death.<br>
-California (April 3): 11,206 confirmed, 252 death.<br>
-[Riverside (April 3): 493 confirmed(male: 254, female: 214), 14 death, 50 recovered.](https://www.rivcoph.org/coronavirus) <br>
+United States (April 4): 301,640 confirmed, 8,175 death.<br>
+California (April 4): 12,603 confirmed, 282 death.<br>
+[Riverside (April 4): 638 confirmed(male: 310, female: 296), 15 death, 50 recovered.](https://www.rivcoph.org/coronavirus) <br>
 
 [Find your region cases](https://countyofriverside.maps.arcgis.com/apps/Media/index.html?appid=87d386575b524d72aa7d84c895e63f98&locale=en-us&&center=-116.2185,33.6302&level=7)<br>
 
