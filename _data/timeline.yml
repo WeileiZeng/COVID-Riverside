@@ -1,5 +1,13 @@
 # Timeline
-- date: April 2
+- date: April 5
+  events:
+  - description: '[Riverside County health officials order residents to stay home, cover faces when leaving](https://abc7.com/riverside-county-coronavirus-order-covid19-masks-stay-home/6077484/)'
+    tag: Riverside
+  - description: '[Donald Trump warns there will be a lot of death as U.S. coronavirus cases top 300,000](https://www.nbcnews.com/news/us-news/donald-trump-warns-there-will-be-lot-death-u-s-n1177061)'
+    tag: General
+
+
+- date: April 4
   events:
   - description: '[Coronavirus Cases Rise Exponentially In Riverside County](https://patch.com/california/temecula/coronavirus-cases-rise-exponentially-riverside-county)'
     tag: Riverside
