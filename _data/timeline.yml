@@ -1,4 +1,16 @@
 # Timeline
+- date: April 7
+  events:
+  - description: '[California crosses 16,000 cases, new model cuts projected death total](https://www.mercurynews.com/2020/04/07/coronavirus-california-crosses-16000-cases-new-study-cuts-projected-death-total/)'
+    tag: CA
+
+
+- date: April 6
+  events:
+  - description: '[30 residents at Riverside nursing facility test positive for coronavirus in county’s largest cluster](https://ktla.com/news/local-news/30-residents-at-riverside-nursing-facility-test-positive-for-coronavirus-in-countys-largest-cluster/)'
+    tag: Riverside
+
+
 - date: April 5
   events:
   - description: '[Riverside County health officials order residents to stay home, cover faces when leaving](https://abc7.com/riverside-county-coronavirus-order-covid19-masks-stay-home/6077484/)'
