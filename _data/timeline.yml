@@ -1,4 +1,13 @@
 # Timeline
+- date: April 8
+  events:
+  - description: '[Coronavirus infections in the US surpass 400,000 mark after suffering deadliest day yet](https://www.foxnews.com/us/coronavirus-cases-us-pass-400000-mark)'
+    tag: General
+  - description: '[Riverside County up to 1,179 coronavirus cases; now has 32 deaths](https://www.pe.com/2020/04/08/riverside-county-up-to-1179-coronavirus-cases-now-has-32-deaths/)'
+    tag: Riverside
+  - description: '[Sheriff: Riverside County residents can be fined, jailed for ignoring order to wear masks](https://ktla.com/news/sheriff-riverside-county-residents-can-be-fined-jailed-for-ignoring-order-to-wear-masks/)'
+    tag: Riverside
+
 - date: April 7
   events:
   - description: '[California crosses 16,000 cases, new model cuts projected death total](https://www.mercurynews.com/2020/04/07/coronavirus-california-crosses-16000-cases-new-study-cuts-projected-death-total/)'
