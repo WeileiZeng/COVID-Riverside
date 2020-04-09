@@ -78,6 +78,8 @@ Source from [1point3aches.com](https://coronavirus.1point3acres.com/#map), [LA t
 ## Where To Buy Grocery? 生鲜资讯
 记录一些当天的案例，不同地点时段都有可能情况不一样，仅供参考。如果你最近有出门，欢迎留言给大家参考。不方便出门的小伙伴可以选择[网购](https://gonglue.us/15208)生鲜与必需品。
 
+* April 8
+  * 早上十一点Riverside Ralphs缺鸡蛋。
 * Mar 26
   * 早上10点，Corona大华有大米(limited one for per household)，鸡蛋剩一半，充足的蔬菜和水果。人流量小，收银区执行6 feet social distance。所有收银人员与补货员均佩戴口罩手套。
 * Mar 24
