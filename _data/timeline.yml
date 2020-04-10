@@ -1,11 +1,12 @@
 # Timeline
-- date: April 8
+- date: April 9
   events:
   - description: '[Universal Studios extends park closures; US coronavirus cases top 452,000](https://www.cnbc.com/2020/04/09/coronavirus-latest-updates.html)'
     tag: General
   - description: '[Riverside County coronavirus cases increase to 1,280; recoveries reach 125](https://kesq.com/news/2020/04/09/riverside-county-coronavirus-cases-increase-to-1280-recoveries-reach-125/)'
     tag: Riverside
-
+  - description: '[California appears to be flattening the curve — but residents must keep social distancing for at least another month](https://www.businessinsider.com/california-flattening-the-curve-coronavirus-case-growth-slowing-2020-4)'
+    tag: CA
 
 - date: April 8
   events:
