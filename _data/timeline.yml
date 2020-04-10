@@ -1,6 +1,14 @@
 # Timeline
 - date: April 8
   events:
+  - description: '[Universal Studios extends park closures; US coronavirus cases top 452,000](https://www.cnbc.com/2020/04/09/coronavirus-latest-updates.html)'
+    tag: General
+  - description: '[Riverside County coronavirus cases increase to 1,280; recoveries reach 125](https://kesq.com/news/2020/04/09/riverside-county-coronavirus-cases-increase-to-1280-recoveries-reach-125/)'
+    tag: Riverside
+
+
+- date: April 8
+  events:
   - description: '[Coronavirus infections in the US surpass 400,000 mark after suffering deadliest day yet](https://www.foxnews.com/us/coronavirus-cases-us-pass-400000-mark)'
     tag: General
   - description: '[Riverside County up to 1,179 coronavirus cases; now has 32 deaths](https://www.pe.com/2020/04/08/riverside-county-up-to-1179-coronavirus-cases-now-has-32-deaths/)'
