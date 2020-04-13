@@ -1,6 +1,16 @@
 # Timeline
 - date: April 9
   events:
+  - description: '[Coronavirus live updates: US deaths decline again; Trump take swipe at Fauci; sailor dies on USS Theodore Roosevelt](https://www.usatoday.com/story/news/health/2020/04/13/coronavirus-live-updates-stimulus-checks-us-deaths-donald-trump/5124545002/)'
+    tag: General
+  - description: '[Riverside County workers at highest risk for coronavirus-related layoff, by this math](https://www.pe.com/2020/04/13/riverside-county-workers-at-highest-risk-for-coronavirus-related-layoff-by-this-math/)'
+    tag: Riverside
+  - description: '[California is days away from its projected coronavirus peak.](https://www.usatoday.com/story/news/nation/2020/04/12/coronavirus-california-gavin-newsom-los-angeles-early-action/2967552001/)'
+    tag: CA
+
+
+- date: April 9
+  events:
   - description: '[Universal Studios extends park closures; US coronavirus cases top 452,000](https://www.cnbc.com/2020/04/09/coronavirus-latest-updates.html)'
     tag: General
   - description: '[Riverside County coronavirus cases increase to 1,280; recoveries reach 125](https://kesq.com/news/2020/04/09/riverside-county-coronavirus-cases-increase-to-1280-recoveries-reach-125/)'
